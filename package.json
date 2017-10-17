@@ -1,0 +1,24 @@
+{
+  "name": "nodewithmulter",
+  "version": "1.0.0",
+  "description": "example for Image Uploading",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shravanz/NodeWithMulter.git"
+  },
+  "author": "shravan z",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shravanz/NodeWithMulter/issues"
+  },
+  "homepage": "https://github.com/shravanz/NodeWithMulter#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "multer": "^1.3.0"
+  }
+}
